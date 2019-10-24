@@ -25,9 +25,9 @@ Base abstract class containing abstract method "update()"
 # Test Cases
 Test.py contains 2 test cases:
 1. Given Example:
-  - Data set with 5 scans, each scan of size 5 as provided in the problem statement
+    - Data set with 5 scans, each scan of size 5 as provided in the problem statement
 
 2. Randomized Data Set;
-  - Completely randomized 2-dimensional array generated using NumPy library
-  - Array consists for 300 elements arranged in 25 rows of 12 elements each
-  - Values range from 0.01 to 55
+    - Completely randomized 2-dimensional array generated using NumPy library
+    - Array consists for 300 elements arranged in 25 rows of 12 elements each
+    - Values range from 0.01 to 55
